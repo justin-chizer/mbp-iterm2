@@ -33,5 +33,9 @@ brew update && brew install azure-cli
 brew install kubectl
 brew install terraform
 brew install gh
-
+brew install jenv
 ```
+https://slack.com/intl/en-gb/downloads/mac
+https://zoom.us/download?os=mac
+
+### Installing Java 21

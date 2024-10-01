@@ -20,7 +20,8 @@ https://dev.to/khairunnaharnowrin/how-to-setup-zsh-on-mac-terminal-37dj follow t
 ```
 brew update && brew install azure-cli
 brew install kubectl
-brew install kubelogin
+brew install Azure/kubelogin/kubelogin
+kubelogin convert-kubeconfig -l azurecli
 brew install terraform
 brew install gh
 brew install jenv
@@ -32,3 +33,8 @@ https://zoom.us/download?os=mac
 
 
 ### Installing Java 21
+https://www.jetbrains.com/idea/download/?section=mac
+
+```
+brew install openjdk@21
+brew install maven

@@ -18,7 +18,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install git
 ```
-https://dev.to/khairunnaharnowrin/how-to-setup-zsh-on-mac-terminal-37dj follow these instrucrtion
+- https://dev.to/khairunnaharnowrin/how-to-setup-zsh-on-mac-terminal-37dj follow these instrucrtion
 
 
 
@@ -32,7 +32,7 @@ brew install gh
 brew install jenv
 ```
 
-### Installing Java 21
+## Installing Java 21
 https://www.jetbrains.com/idea/download/?section=mac
 
 ```

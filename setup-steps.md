@@ -38,3 +38,4 @@ https://www.jetbrains.com/idea/download/?section=mac
 ```
 brew install openjdk@21
 brew install maven
+brew link openjdk@21
